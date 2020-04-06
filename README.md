@@ -1,4 +1,4 @@
-# Project Management of Investment Systems
+# Project Management for Investment Management Firms
 
 ## Predictive Analysis of Shares
 
